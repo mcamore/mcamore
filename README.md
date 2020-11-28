@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### Editors:
-![](https://img.shields.io/badge/VSCode-informational?style=for-the-batch&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/VSCode-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ-informational?style=flat-square&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Sublime-informational?style=flat-square&logo=sublime-text&logoColor=white&color=2bbc8a)
 ### Programming Languages:
