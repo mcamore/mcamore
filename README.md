@@ -1,4 +1,6 @@
 ### Hi there 👋
+
+Currently wornking under ![](https://img.shields.io/badge/Manjaro-informational?style=for-the-badge&logo=linux&logoColor=white&color=4e5250)
 ### Editors:
 ![](https://img.shields.io/badge/VSCode-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=4e5250)
 ![](https://img.shields.io/badge/IntelliJ-informational?style=for-the-badge&logo=intellij-idea&logoColor=white&color=4e5250)
