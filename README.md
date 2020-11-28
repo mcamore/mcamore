@@ -1,12 +1,12 @@
 ### Hi there 👋
 ### Editors:
-![](https://img.shields.io/badge/VSCode-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ-informational?style=flat-square&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Sublime-informational?style=flat-square&logo=sublime-text&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/VSCode-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=4e5250)
+![](https://img.shields.io/badge/IntelliJ-informational?style=for-the-badge&logo=intellij-idea&logoColor=white&color=4e5250)
+![](https://img.shields.io/badge/Sublime-informational?style=for-the-badge&logo=sublime-text&logoColor=white&color=4e5250)
 ### Programming Languages:
-![](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=java&logoColor=white&color=4e5250)
+![](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=4e5250)
+![](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=white&color=4e5250)
 
 <!--
 **mcamore/mcamore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
