@@ -1,9 +1,12 @@
 ### Hi there 👋
-
-Programming Languages:
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+### Editors:
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat-square&logo=vscode&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ-informational?style=flat-square&logo=intellij&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Sublime Text-informational?style=flat-square&logo=sublimetext&logoColor=white&color=2bbc8a)
+### Programming Languages:
+![](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=2bbc8a)
 
 <!--
 **mcamore/mcamore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
