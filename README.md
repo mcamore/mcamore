@@ -2,7 +2,7 @@
 ### Editors:
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat-square&logo=vscode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ-informational?style=flat-square&logo=intellij&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Sublime Text-informational?style=flat-square&logo=sublimetext&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Sublime-informational?style=flat-square&logo=sublimetext&logoColor=white&color=2bbc8a)
 ### Programming Languages:
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=2bbc8a)
