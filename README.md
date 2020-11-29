@@ -4,8 +4,6 @@
 
 ![OS](https://img.shields.io/badge/OS:-Manjaro-fff?&logo=linux&color=4e5250)
 <br>
-![Shell](https://img.shields.io/badge/-Shell-fff?&logo=terminal&color=4e5250): zsh
-
 ### Editors:
 ![VSCode](https://img.shields.io/badge/-VSCode-fff?&logo=visual-studio-code&color=4e5250)
 ![Sublime](https://img.shields.io/badge/-Sublime-fff?&logo=sublime-text&color=4e5250)
