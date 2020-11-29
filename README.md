@@ -2,8 +2,9 @@
 
 # Hi!
 
- Manjaro GNOME
-Shell: zsh
+![OS](https://img.shields.io/badge/-OS-fff?&logo=linux&color=4e5250): Manjaro GNOME
+<br>
+![Shell](https://img.shields.io/badge/-Shell-fff?&logo=terminal&color=4e5250): zsh
 
 ### Editors:
 ![VSCode](https://img.shields.io/badge/-VSCode-fff?&logo=visual-studio-code&color=4e5250)
