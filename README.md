@@ -14,7 +14,7 @@ Python, IoT and Security.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=javascript&color=4e5250)
 ![Python](https://img.shields.io/badge/-Python-fff?&logo=python&color=4e5250)
 ### 📫 How to reach me:
-![Linkedin](https://img.shields.io/badge/-Linkedin-fff?&logo=linkedin&color=4e5250)
+![Linkedin](https://img.shields.io/badge/-Linkedin-fff?&&style=sociallogo=linkedin&color=4e5250)
 ![Intagram](https://img.shields.io/badge/-Instagram-fff?&logo=instagram&color=4e5250)
 
 <!--
