@@ -1,5 +1,5 @@
 # Hello, folks! 👋
-My name is Manuel and I'm a Senior Developer. I'm from Spain, living in Málaga.
+My name is Manuel and I'm a Senior Software Developer. I'm from Spain, living in Málaga.
 ### 🔭 Currently working on:
 Python, IoT and Security.
 ### 💾 Editors:
