@@ -15,6 +15,7 @@ Python, IoT and Security.
 ![Intagram](https://img.shields.io/badge/-Instagram-fff?style=social&logo=instagram&color=4e5250)
 
 ![mcamore's github stats](https://github-readme-stats.vercel.app/api?username=mcamore&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcamore)]()
 <!--
 **mcamore/mcamore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
