@@ -1,5 +1,3 @@
-### 🚧 Under construction 🚧
-
 # Hello, folks! 👋
 My name is Manuel and I'm a Senior Developer. I'm from Spain, living in Málaga.
 ### 🔭 Currently working on:
