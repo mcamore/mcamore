@@ -1,15 +1,14 @@
 ### 🚧 Under construction 🚧
 
-# Hi!
+# Hello, folks! 👋
+My name is Manuel and I'm a Senior Developer. I'm from Spain, living in Málaga.
 ### 🔭 Currently working on:
 Python, IoT and Security.
-### ⚡ Fun fact:
-* I love retro stuff.
-### Editors:
+### 💾 Editors:
 ![VSCode](https://img.shields.io/badge/-VSCode-fff?logo=visual-studio-code&color=4e5250)
 ![Sublime](https://img.shields.io/badge/-Sublime-fff?logo=sublime-text&color=4e5250)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-fff?logo=intellij-idea&color=4e5250)
-### Programming Languages:
+### 👨‍💻 Programming Languages:
 ![Java](https://img.shields.io/badge/-Java-fff?logo=java&color=4e5250)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?logo=javascript&color=4e5250)
 ![Python](https://img.shields.io/badge/-Python-fff?logo=python&color=4e5250)
